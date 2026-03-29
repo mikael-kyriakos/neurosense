@@ -1,0 +1,9 @@
+streamlit
+pandas
+requests
+numpy
+opencv-python-headless
+pillow
+transformers
+torch
+ultralytics
